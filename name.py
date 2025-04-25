@@ -121,7 +121,4 @@ def main():
     updater.idle()  # Keep the bot running
 
 if __name__ == '__main__':
-    main())  # Keep the bot running
-
-if __name__ == '__main__':
-    main()
+    main()  # Keep the bot running
